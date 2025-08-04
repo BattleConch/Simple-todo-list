@@ -1,0 +1,223 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.welcome{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navs {
+  background-color: antiquewhite;
+  padding: 1%;
+  display: flex;
+  gap: 7px;
+  width: 100%;
+  margin: 0%;
+  position: sticky;
+  top: 0;
+  color: brown;
+
+}
+
+.buttons {
+  background-color: antiquewhite;
+  border: none;
+  margin-bottom: px;
+  cursor: pointer;
+  color: brown; 
+  text-decoration: none;
+}
+.body {
+  background-color: rgb(63, 46, 38);
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+/*
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+*/
+.default {
+  padding: 3%;
+}
+/*
+
+
+.text {
+  color: beige;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 2%;
+  font-size: large;
+}
+footer {
+  background-color: rgb(2, 2, 74);
+  width: 100%;
+  display: flex;
+  padding: 1%;
+} 
+
+
+
+.button2 {
+  background-color: rgb(2, 2, 74);
+  color: white;
+  border: none;
+  padding: 5%;
+  width: 100px;
+  display: block;
+  margin: 10px;
+  cursor: pointer;
+}
+.rick{
+    display: block;
+    margin: auto;
+    margin-top: 3%;
+    margin-bottom: 30%;
+    text-align: center;
+    color: white
+}
+.text{
+        color: rgb(255, 255, 255);
+        font-size: large;
+        padding: 4%;
+    }
+    input{
+        border: none;
+        padding: 1%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .d1{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .button3{
+        background-color: red;
+        border: none;
+        padding: 1%;
+        color: white;
+        cursor: pointer;
+    }*/
+    .taskItem{
+        background-color: rgb(244, 200, 145);
+        width: 150px;
+        height: 50px;
+        color: black;
+        padding: 1%;
+        margin: 1%;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 5px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    .close{
+        height: 15px;
+        width: 15px;
+        float: right;
+        border: none;
+        background-color: rgb(244, 200, 145);
+        cursor: pointer;
+    }
+    /*
+    .d-main{
+        text-align: center;
+        color: white;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-color:rgb(49, 26, 16) ;
+        padding: 3%;
+        margin: 3%;
+        
+    }
+    .buttons-main1{
+        border-radius: 10%;
+        width: 90px;
+        height: 30px;
+        background-color: black;
+        color: white;
+        border-color: white;
+        font-weight: bolder;
+        margin: 1%;
+        cursor: pointer;
+
+        
+    }
+    .buttons-main2{
+        border-radius: 10%;
+        width: 90px;
+        border: none;
+        height: 30px;
+        font-weight: 600;
+        margin: 1%;
+        cursor: pointer;
+        
+
+    }
+    .d-second{
+        display: flex;
+        padding: 3%;
+
+    }
+    .d-third{
+        margin-left: 8%;
+        margin-right: 8%;
+        background-color: rgba(15, 9, 9, 0.979);
+        padding: 4%;
+    }
+    .flexer{
+      display: flex;
+      color: white;
+      margin: 2%;
+      padding: 3%;
+    }
+    .abouttxt {
+      text-align: center;
+      color: rgb(238, 213, 191);
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 2%;
+      padding: 1px;
+    }*/
+
